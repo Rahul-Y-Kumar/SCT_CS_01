@@ -20,9 +20,9 @@ Enter "e" for Encryption or "d" for Decryption: e
 
 Enter the key value (1-26): 3
 
-Enter the text to Encrypt: hello world
+Enter the text to Encrypt: rahulkumar
 
-Encrypted Text: khoor zruog
+Encrypted Text: udkxonxpdu
 ------------------------------------------------------------------------------------
 
 **Decryption Mode**<br>
@@ -38,9 +38,9 @@ Enter "e" for Encryption or "d" for Decryption: d
 
 Enter the key value (1-26): 3
 
-Enter the text to Decrypt: khoor zruog
+Enter the text to Decrypt: udkxonxpdu
 
-Decrypted Text: hello world
+Decrypted Text: rahulkumar
 ------------------------------------------------------------------------------------
 
 ## 🛠️ How to Run
