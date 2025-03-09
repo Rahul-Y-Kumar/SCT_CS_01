@@ -1,0 +1,16 @@
+print("\n" + "-"*84)
+print(" *** CAESAR CIPHER PROGRAM *** ".center(84))
+print("-"*84 + "\n")
+
+print("Do you want to Encrypt or Decrypt?")
+user_input = input('Enter "e" for Encryption or "d" for Decryption: ').lower()
+print()
+elif user_input == 'd':
+    print("__DECRYPTION MODE ACTIVATED__".center(84))
+    print("-"*84 + "\n")
+    Key = int(input("Enter the key value (1-26): "))
+    print()
+    text = input("Enter the text to Decrypt: ")
+    plaintxt = decrypt(text, Key)
+    print("\nDecrypted Text:", plaintxt)
+    print("-"*84 + "\n")
